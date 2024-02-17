@@ -67,6 +67,8 @@
 
 >熟悉 hugging face 下载功能，使用 `huggingface_hub` python 包，下载 `InternLM-20B` 的 config.json 文件到本地（需截图下载过程）。
 
+下载结果：
+![[2-9.png]]
 ### **进阶练习**
 
 >完成浦语·灵笔的图文理解及创作部署（需截图）
