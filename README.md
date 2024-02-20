@@ -7,5 +7,8 @@ InternStudio [InternStudio (intern-ai.org.cn)](https://studio.intern-ai.org.cn/)
 
 
 以下为各章节的笔记连接：
-[[Chapter2]]
-
+[Chapter 2](content/Chapter%202.md)
+[Chapter 3](content/Chapter%203.md)
+[Chapter 4](content/Chapter%204.md)
+[Chapter 5](content/Chapter%205.md)
+[Chapter 6](content/Chapter%206.md)
